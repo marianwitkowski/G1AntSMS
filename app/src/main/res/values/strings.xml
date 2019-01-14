@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">G1ANT SMS Intercept</string>
+
+    <string name="action_ok">OK</string>
+    <string name="permission_alert_dialog_title">Dostęp do SMS</string>
+    <string name="permission_dialog_message">Aplikacja wymaga dostępu do wiadomości SMS.</string>
+
+
+</resources>
